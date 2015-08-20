@@ -1,0 +1,65 @@
+Copyright Holder: Brendan J. Cordy
+License **** Unspecified **** [Hoping he will make it MIT License]
+
+
+Twitter: Brendan Cordy (@brenderlogs).
+GitHub: https://github.com/brenderlogs
+Website: http://brenderlogs.github.io/
+email:    myfirstname.mylastname@gmail.com 
+
+Address: 
+Department of Mathematics
+Champlain College St. Lambert
+900 Riverside Drive
+St-Lambert, QC, J4P 3P2
+
+
+
+
+Brendan J. Cordy Publications Lists: 
+
+http://dblp.uni-trier.de/pers/hd/c/Cordy:Brendan_J= 
+http://65.54.113.26/Author/2565508/brendan-j-cordy
+
+RT Journal Article
+ID 4411496
+A1 Cordy,Brendan,J.
+A1 Salomaa,Kai
+YR 2007
+T1 On the existence of regular approximations
+JF Theoretical Computer Science
+VO 387
+SP 125
+OP 135
+IS 2
+
+RT Journal Article
+ID 2512253
+A1 Akl,Selim,G.
+A1 Cordy,Brendan,J.
+A1 Yao,Weiguang
+YR 2005
+T1 An analysis of the effect of parallelism in the control of dynamical systems
+JF International Journal of Parallel, Emergent and Distributed Systems
+VO 20
+SP 147
+OP 168
+IS 2
+
+RT Journal Article
+ID 4564523
+A1 Cordy,Brendan,J.
+A1 Akl,Selim,G.
+YR 2004
+T1 Parallel Computation and Avoidance of Chaos
+
+RT Journal Article
+ID 3840996
+A1 Cordy,Brendan,J.
+A1 Akl,Selim,G.
+T1 Technical Report No. 2004-490 Parallel Computation and Avoidance of Chaos
+
+
+Twitter: Brendan Cordy (@brenderlogs).
+
+
